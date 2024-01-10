@@ -1,0 +1,71 @@
+{
+    "name": "Equilibre Token List",
+    "logoURI": "https://github.com/equilibre-finance.png",
+    "keywords": [
+        "audited",
+        "verified",
+        "special tokens"
+    ],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "volatilecoin": {
+            "name": "Volatilecoin",
+            "description": "Tokens that are NOT fixed to an external asset, e.g. the US dollar"
+        },
+        "taxed": {
+            "name": "Taxed",
+            "description": "Tokens that have a tax on transfers"
+        }
+    },
+    "timestamp": "2022-10-04T00:00:00+00:00",
+    "tokens": [
+
+        {
+            "chainId": 245022926,
+            "name": "Kell",
+            "symbol": "KELL",
+            "address": "xxx",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 245022926,
+            "name": "Bribed Kell",
+            "symbol": "bKELL",
+            "address": "",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
+            "liquid_staked_address": "",
+            "price_control": "xxx",
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 245022926,
+            "name": "Wrapped NEON",
+            "symbol": "wNEON",
+            "address": "",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wNEON.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
