@@ -26,7 +26,7 @@
             "chainId": 245022926,
             "name": "USD Coin",
             "symbol": "USDC",
-            "address": "0xC659B2633Ed725e5346396a609d8f31794d6ac50",
+            "address": "0x512E48836Cd42F3eB6f50CEd9ffD81E0a7F15103",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
             "liquid_staked_address": "",
@@ -89,6 +89,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
