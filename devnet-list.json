@@ -50,7 +50,7 @@
             "chainId": 245022926,
             "name": "Keller",
             "symbol": "KELL",
-            "address": "0x8560F26EBdfB080A693F93A3CD39740878844Bd0",
+            "address": "0x56DB1291d2A5fB49015e4f90FF72a27c618F4705",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -67,7 +67,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "0x4b0565635a0cf6768761947e3457b78652070f3e",
+            "price_control": "0x572AF12A9027a2e2aCEFC557D1aED30b9c3D7D55",
             "tags": [
                 "volatilecoin"
             ]
@@ -89,6 +89,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     }
 }
