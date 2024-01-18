@@ -84,11 +84,24 @@
             "tags": [
                 "volatilecoin"
             ]
+        },
+        {
+            "chainId": 245022926,
+            "name": "TestERC20",
+            "symbol": "TST",
+            "address": "0x57685Cb7a81d81519De0d9FCB88474040588f6Ff",
+            "decimals": 18,
+            "logoURI": "",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
         }
     ],
     "version": {
         "major": 1,
-        "minor": 0,
-        "patch": 4
+        "minor": 1,
+        "patch": 0
     }
 }
