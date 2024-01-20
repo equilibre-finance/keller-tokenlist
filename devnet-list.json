@@ -97,11 +97,24 @@
             "tags": [
                 "volatilecoin"
             ]
+        },
+        {
+            "chainId": 245022926,
+            "name": "Heal",
+            "symbol": "HEAL",
+            "address": "0x9f457aC82E8a345B42170972D5049fb3804af770",
+            "decimals": 18,
+            "logoURI": "",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
         }
     ],
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
