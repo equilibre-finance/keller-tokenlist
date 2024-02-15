@@ -38,7 +38,7 @@
             "chainId": 245022926,
             "name": "USD Tether",
             "symbol": "USDT",
-            "address": "0x9007507fa3B3C85287fAf2D57935507332790cE4",
+            "address": "0x6eEf939FC6e2B3F440dCbB72Ea81Cd63B5a519A5",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
             "liquid_staked_address": "",
@@ -245,6 +245,6 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 1
+        "patch": 2
     }
 }
