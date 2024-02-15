@@ -26,7 +26,7 @@
             "chainId": 245022926,
             "name": "USD Coin",
             "symbol": "USDC",
-            "address": "0xaa152aa919b4f1B7f4E74ff455940548398528cb",
+            "address": "0x448b633B79292de807FEd0CC8f6500c3D75dC09F",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
             "liquid_staked_address": "",
@@ -50,7 +50,7 @@
             "chainId": 245022926,
             "name": "Keller",
             "symbol": "KELL",
-            "address": "0x9f3CDa958BC8E42C6259a40584df9792C73524ee",
+            "address": "0x4C9f1aa55CB5C78f2feAfdAD3e69895e160eA79C",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -63,7 +63,7 @@
             "chainId": 245022926,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0x997B34c13135e748eaC4FefcE452760d95Df02D5",
+            "address": "0xe24138cE523eA5941B2B7fBAdC5d2CbE48B931ec",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
@@ -89,7 +89,7 @@
             "chainId": 245022926,
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
-            "address": "0xeD75Bf6e839bE1bcb6569f63b2D89913adce9E62",
+            "address": "0xbf648E65b473D957EEBd4bfFb891Afdc97683b2c",
             "decimals": 18,
             "logoURI": "",
             "liquid_staked_address": "",
@@ -245,6 +245,6 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     }
 }
