@@ -91,7 +91,7 @@
             "symbol": "wBTC",
             "address": "0xbf648E65b473D957EEBd4bfFb891Afdc97683b2c",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -104,7 +104,7 @@
             "symbol": "DAI",
             "address": "0xA4216393340d0f1891A41aC386aFC7221d433c82",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/DAI.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -117,7 +117,7 @@
             "symbol": "KUSD",
             "address": "0x3f9F8D424D01053Ee06E8208F63441B4a2987dE6",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KUSD.webp",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -130,7 +130,7 @@
             "symbol": "UNI",
             "address": "0x3e30362B5A56891991a227e18b18DDb8F326d6b5",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/UNI.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -143,7 +143,7 @@
             "symbol": "SUSHI",
             "address": "0xB30014f45E09f8f7d3D29c2f090031D9FdF7Bc1b",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/SUSHI.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -156,7 +156,7 @@
             "symbol": "AAVE",
             "address": "0xaeB6B70B76f4fcb735234B9b306ad1d56aB15933",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/AAVE.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -169,7 +169,7 @@
             "symbol": "COMP",
             "address": "0x0260a063b5bD34F7f267399b8F3A37769a292066",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/COMP.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -182,7 +182,7 @@
             "symbol": "YFI",
             "address": "0xcFEc51c048bF401670b29a4FF83927CAC4362E7b",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/YFI.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -195,7 +195,7 @@
             "symbol": "LINK",
             "address": "0x2380898E1E0b6022BCBAC8a28D8dff9A2915B63c",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/LINK.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -208,7 +208,7 @@
             "symbol": "MKR",
             "address": "0x51d593D99C74e1feCaF36A6c3afe661C450cb213",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/MKR.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -221,7 +221,7 @@
             "symbol": "SNX",
             "address": "0xD93dC0e6D8698455f92B65c9d0211650073C2c34",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/SNX.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -234,7 +234,7 @@
             "symbol": "CRV",
             "address": "0x2080c6D01DF46Cd60f0dE4EC08133882F4Bb74B4",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/CRV.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -245,6 +245,6 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 3
+        "patch": 4
     }
 }
