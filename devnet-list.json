@@ -23,10 +23,10 @@
     "timestamp": "2024-01-10T00:00:00+00:00",
     "tokens": [
         {
-            "chainId": 245022926,
+            "chainId": 534351,
             "name": "USD Coin",
             "symbol": "USDC",
-            "address": "0x448b633B79292de807FEd0CC8f6500c3D75dC09F",
+            "address": "0xB348c977A83355358F5154E101bE51eB6e2929b5",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
             "liquid_staked_address": "",
@@ -35,22 +35,10 @@
             ]
         },
         {
-            "chainId": 245022926,
-            "name": "USD Tether",
-            "symbol": "USDT",
-            "address": "0x9007507fa3B3C85287fAf2D57935507332790cE4",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
-            "liquid_staked_address": "",
-            "tags": [
-                "stablecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
+            "chainId": 534351,
             "name": "Keller",
             "symbol": "KELL",
-            "address": "0x4C9f1aa55CB5C78f2feAfdAD3e69895e160eA79C",
+            "address": "0x9faB97344E19616fAEE59e081E2dF88dE03b390b",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -60,25 +48,25 @@
             ]
         },
         {
-            "chainId": 245022926,
+            "chainId": 534351,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0xe24138cE523eA5941B2B7fBAdC5d2CbE48B931ec",
+            "address": "0xEdF45A22B508E8954A0C545C9645e540C5087bE8",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "0x572AF12A9027a2e2aCEFC557D1aED30b9c3D7D55",
+            "price_control": "0x9faB97344E19616fAEE59e081E2dF88dE03b390b",
             "tags": [
                 "volatilecoin"
             ]
         },
         {
-            "chainId": 245022926,
-            "name": "Wrapped NEON",
-            "symbol": "wNEON",
-            "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
+            "chainId": 534351,
+            "name": "Wrapped Ethereum",
+            "symbol": "wETH",
+            "address": "0x5300000000000000000000000000000000000004",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wNEON.png",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -86,155 +74,12 @@
             ]
         },
         {
-            "chainId": 245022926,
+            "chainId": 534351,
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
-            "address": "0xbf648E65b473D957EEBd4bfFb891Afdc97683b2c",
+            "address": "0xA6310f3824aB683B126E93d24b3e88aCb38ae78C",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "Dai",
-            "symbol": "DAI",
-            "address": "0xA4216393340d0f1891A41aC386aFC7221d433c82",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/DAI.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "KUSD",
-            "symbol": "KUSD",
-            "address": "0x3f9F8D424D01053Ee06E8208F63441B4a2987dE6",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KUSD.webp",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "Uniswap",
-            "symbol": "UNI",
-            "address": "0x3e30362B5A56891991a227e18b18DDb8F326d6b5",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/UNI.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "Sushiswap",
-            "symbol": "SUSHI",
-            "address": "0xB30014f45E09f8f7d3D29c2f090031D9FdF7Bc1b",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/SUSHI.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "AAVE",
-            "symbol": "AAVE",
-            "address": "0xaeB6B70B76f4fcb735234B9b306ad1d56aB15933",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/AAVE.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "COMP",
-            "symbol": "COMP",
-            "address": "0x0260a063b5bD34F7f267399b8F3A37769a292066",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/COMP.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "YFI",
-            "symbol": "YFI",
-            "address": "0xcFEc51c048bF401670b29a4FF83927CAC4362E7b",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/YFI.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "Link",
-            "symbol": "LINK",
-            "address": "0x2380898E1E0b6022BCBAC8a28D8dff9A2915B63c",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/LINK.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "MKR",
-            "symbol": "MKR",
-            "address": "0x51d593D99C74e1feCaF36A6c3afe661C450cb213",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/MKR.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "SNX",
-            "symbol": "SNX",
-            "address": "0xD93dC0e6D8698455f92B65c9d0211650073C2c34",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/SNX.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 245022926,
-            "name": "CRV",
-            "symbol": "CRV",
-            "address": "0x2080c6D01DF46Cd60f0dE4EC08133882F4Bb74B4",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/CRV.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -243,8 +88,8 @@
         }
     ],
     "version": {
-        "major": 1,
-        "minor": 3,
-        "patch": 4
+        "major": 2,
+        "minor": 0,
+        "patch": 0
     }
 }
