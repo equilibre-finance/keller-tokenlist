@@ -26,7 +26,7 @@
             "chainId": 534351,
             "name": "USD Coin",
             "symbol": "USDC",
-            "address": "0xB348c977A83355358F5154E101bE51eB6e2929b5",
+            "address": "0x9a9C64022F4A9d98eCCA2B86b72a89c931790808",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
             "liquid_staked_address": "",
@@ -77,9 +77,48 @@
             "chainId": 534351,
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
-            "address": "0xA6310f3824aB683B126E93d24b3e88aCb38ae78C",
-            "decimals": 18,
+            "address": "0x0048D95d8ca1f05e245CC3099e078C5B9996A692",
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 534351,
+            "name": "USD Tether",
+            "symbol": "USDT",
+            "address": "0x585B5686d84Ed09D922027D53092d5F43b3bA083",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 534351,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "address": "0x1A1FCd0ce98206E5C8BF3E141DA1549B618fEA85",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/DAI.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 534351,
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "address": "0x542628F43C26c8d4122293C64E97e8Db06e5F028",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/LINK.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -89,7 +128,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
