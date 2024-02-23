@@ -23,22 +23,10 @@
     "timestamp": "2024-01-10T00:00:00+00:00",
     "tokens": [
         {
-            "chainId": 534351,
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "address": "0x9a9C64022F4A9d98eCCA2B86b72a89c931790808",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
-            "liquid_staked_address": "",
-            "tags": [
-                "stablecoin"
-            ]
-        },
-        {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "Keller",
             "symbol": "KELL",
-            "address": "0x9faB97344E19616fAEE59e081E2dF88dE03b390b",
+            "address": "0x6E508A137218840d049B938c58BeC909bfB3Ae68",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -48,10 +36,10 @@
             ]
         },
         {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0xEdF45A22B508E8954A0C545C9645e540C5087bE8",
+            "address": "0x6fd1983D2555D3BC9132E37Fd909cd33015FA583",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
@@ -61,10 +49,10 @@
             ]
         },
         {
-            "chainId": 534351,
-            "name": "Wrapped Ethereum",
-            "symbol": "wETH",
-            "address": "0x5300000000000000000000000000000000000004",
+            "chainId": 80001,
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
             "liquid_staked_address": "",
@@ -74,10 +62,10 @@
             ]
         },
         {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
-            "address": "0x0048D95d8ca1f05e245CC3099e078C5B9996A692",
+            "address": "0x04bD3769bF01d3f83B5D149AE4EA88dbF324A52a",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
             "liquid_staked_address": "",
@@ -87,10 +75,10 @@
             ]
         },
         {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "USD Tether",
             "symbol": "USDT",
-            "address": "0x585B5686d84Ed09D922027D53092d5F43b3bA083",
+            "address": "0x76858Ef3467c4c493ca751d9d9C258C90ae29412",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
             "liquid_staked_address": "",
@@ -100,10 +88,10 @@
             ]
         },
         {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "address": "0x1A1FCd0ce98206E5C8BF3E141DA1549B618fEA85",
+            "address": "0xC1FFdaCe26CbbB036fB98AFC782A43a9399914f7",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/DAI.png",
             "liquid_staked_address": "",
@@ -113,10 +101,10 @@
             ]
         },
         {
-            "chainId": 534351,
+            "chainId": 80001,
             "name": "Chainlink",
             "symbol": "LINK",
-            "address": "0x542628F43C26c8d4122293C64E97e8Db06e5F028",
+            "address": "0x112Ee59A43F3E86fc455c925318696e624153D51",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/LINK.png",
             "liquid_staked_address": "",
@@ -127,8 +115,8 @@
         }
     ],
     "version": {
-        "major": 2,
-        "minor": 1,
+        "major": 3,
+        "minor": 0,
         "patch": 0
     }
 }
