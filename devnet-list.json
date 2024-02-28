@@ -24,9 +24,21 @@
     "tokens": [
         {
             "chainId": 80001,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "address": "0x6118491ce099D9bf8cC384A06453c5BC2fCD495E",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
+            "liquid_staked_address": "",
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 80001,
             "name": "Keller",
             "symbol": "KELL",
-            "address": "0x88dF11023e6991351b2D31f97DA9db8B126CC2D1",
+            "address": "0x8812420fb6E5d971C969CcEF2275210AB8D014f0",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -39,7 +51,7 @@
             "chainId": 80001,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0x0Fd6d6C930B9cf9B64c0A29E4C1cFF84FCbb019f",
+            "address": "0xae020c862b6e181425b33dC5E909345bf04e27a4",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
@@ -48,12 +60,26 @@
                 "volatilecoin"
             ]
         },
+        
         {
             "chainId": 80001,
             "name": "Wrapped Matic",
             "symbol": "WMATIC",
             "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
             "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wMATIC.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 80001,
+            "name": "Wrapped Ethereum",
+            "symbol": "wETH",
+            "address": "0x5Cc84F501F19C0223ba99073026a0CdB94D4B2a7",
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
             "liquid_staked_address": "",
             "stable_route": true,
@@ -66,7 +92,7 @@
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
             "address": "0xbB94C08E163Db531C56486249549007878E26176",
-            "decimals": 6,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
             "liquid_staked_address": "",
             "stable_route": true,
@@ -116,7 +142,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
