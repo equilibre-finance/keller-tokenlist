@@ -38,7 +38,7 @@
             "chainId": 11155111,
             "name": "Kell",
             "symbol": "KELL",
-            "address": "0x636Fb500020c7C67CEd74b1De16414E8e91Bc461",
+            "address": "0x7e24a8BfAb86552696D6Db23B71198AF820c446a",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -51,7 +51,7 @@
             "chainId": 11155111,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0xBc5D922E212a78548b5017470d3249953C7f719a",
+            "address": "0x7ffFef66C70590269E483d3beE2d4a637f2723C6",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
@@ -128,7 +128,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
