@@ -36,9 +36,9 @@
         },
         {
             "chainId": 11155111,
-            "name": "Keller",
+            "name": "Kell",
             "symbol": "KELL",
-            "address": "0x26E9eeaA6D0798007C9a8baD871C74153C65372c",
+            "address": "0x636Fb500020c7C67CEd74b1De16414E8e91Bc461",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -51,11 +51,11 @@
             "chainId": 11155111,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0xC7FaA623Cfdf46A616C7BA42143dC7F780F73C6b",
+            "address": "0xBc5D922E212a78548b5017470d3249953C7f719a",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "0x9faB97344E19616fAEE59e081E2dF88dE03b390b",
+            "price_control": "0x636Fb500020c7C67CEd74b1De16414E8e91Bc461",
             "tags": [
                 "volatilecoin"
             ]
@@ -128,7 +128,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
