@@ -62,8 +62,8 @@
         },
         {
             "chainId": 534351,
-            "name": "Wrapped Ethereum",
-            "symbol": "wETH",
+            "name": "Old Wrapped Ethereum",
+            "symbol": "wETHV1",
             "address": "0x664b1828A0421587a10EB8911117A18C608d9f5A",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
@@ -85,11 +85,24 @@
             "tags": [
                 "volatilecoin"
             ]
+        },
+        {
+            "chainId": 534351,
+            "name": "Wrapped Ether",
+            "symbol": "wETHV2",
+            "address": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "volatilecoin"
+            ]
         }
     ],
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
