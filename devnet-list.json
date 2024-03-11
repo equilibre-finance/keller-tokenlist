@@ -23,10 +23,10 @@
     "timestamp": "2024-01-10T00:00:00+00:00",
     "tokens": [
         {
-            "chainId": 11155111,
+            "chainId": 534351,
             "name": "USD Coin",
             "symbol": "USDC",
-            "address": "0xee3f372663e072a977206E38CA73D45F187E9950",
+            "address": "0xA0Dd1460c9B1CBaB851aebFE3aCC048E284Ebf10",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
             "liquid_staked_address": "",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "chainId": 11155111,
+            "chainId": 534351,
             "name": "Kell",
             "symbol": "KELL",
-            "address": "0x7e24a8BfAb86552696D6Db23B71198AF820c446a",
+            "address": "0xE50017fC859A36bE421B1A22235fe845a9FC3bb3",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -48,20 +48,20 @@
             ]
         },
         {
-            "chainId": 11155111,
+            "chainId": 534351,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "0x7ffFef66C70590269E483d3beE2d4a637f2723C6",
+            "address": "0x13Ab14E2F447bFAeBBB4650F42bFDafcc914f6C7",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "0x636Fb500020c7C67CEd74b1De16414E8e91Bc461",
+            "price_control": "0xE50017fC859A36bE421B1A22235fe845a9FC3bb3",
             "tags": [
                 "volatilecoin"
             ]
         },
         {
-            "chainId": 11155111,
+            "chainId": 534351,
             "name": "Wrapped Ethereum",
             "symbol": "wETH",
             "address": "0x7b79995e5f793a07bc00c21412e50ecae098e7f9",
@@ -74,51 +74,12 @@
             ]
         },
         {
-            "chainId": 11155111,
+            "chainId": 534351,
             "name": "Wrapped Bitcoin",
             "symbol": "wBTC",
-            "address": "0xbEFCff69670918d3408C933fa4Fdd2Fc28D2cF9e",
+            "address": "0x3f74F57Fc9D3E98AAF1A26DE5f128ab2A0c7f2c7",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/WBTC.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 11155111,
-            "name": "USD Tether",
-            "symbol": "USDT",
-            "address": "0xcb97cBf0Bf6a07DA52bf20982529D8b211C5F089",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "stablecoin"
-            ]
-        },
-        {
-            "chainId": 11155111,
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "address": "0x31ffC3718743Be51De60dc8A36a7B612F2543d58",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/DAI.png",
-            "liquid_staked_address": "",
-            "stable_route": true,
-            "tags": [
-                "stablecoin"
-            ]
-        },
-        {
-            "chainId": 11155111,
-            "name": "Chainlink",
-            "symbol": "LINK",
-            "address": "0x65672648AE8E61216E2b905bD2278b4325Ac0E4F",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/LINK.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -128,7 +89,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 3,
-        "patch": 1
+        "minor": 0,
+        "patch": 0
     }
 }
