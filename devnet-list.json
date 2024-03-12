@@ -63,7 +63,7 @@
         {
             "chainId": 534351,
             "name": "Old Wrapped Ethereum",
-            "symbol": "wETHV1",
+            "symbol": "oldWETH",
             "address": "0x664b1828A0421587a10EB8911117A18C608d9f5A",
             "decimals": 18,
             "logoURI": "",
@@ -89,7 +89,7 @@
         {
             "chainId": 534351,
             "name": "Wrapped Ether",
-            "symbol": "wETHV2",
+            "symbol": "wETH",
             "address": "0x5300000000000000000000000000000000000004",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
@@ -103,6 +103,6 @@
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     }
 }
