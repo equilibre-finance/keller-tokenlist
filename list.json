@@ -66,7 +66,7 @@
             "symbol": "USDT",
             "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
             "decimals": 6,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDT.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -90,6 +90,6 @@
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
