@@ -1,5 +1,5 @@
 {
-    "name": "Equilibre Token List",
+    "name": "Keller Token List",
     "logoURI": "https://github.com/equilibre-finance.png",
     "keywords": [
         "audited",
@@ -20,14 +20,25 @@
             "description": "Tokens that have a tax on transfers"
         }
     },
-    "timestamp": "2022-10-04T00:00:00+00:00",
+    "timestamp": "2024-01-10T00:00:00+00:00",
     "tokens": [
-
         {
-            "chainId": 245022926,
+            "chainId": 534352,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/USDC.png",
+            "liquid_staked_address": "",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 534352,
             "name": "Kell",
             "symbol": "KELL",
-            "address": "xxx",
+            "address": "0xCF4706120623c527e32493057A4DC0cae5FC8201",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
@@ -37,25 +48,38 @@
             ]
         },
         {
-            "chainId": 245022926,
+            "chainId": 534352,
             "name": "Bribed Kell",
             "symbol": "bKELL",
-            "address": "",
+            "address": "0xAC77ABA79Bf6377Be636A222C43ceA1362d9F107",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "xxx",
+            "price_control": "0xE50017fC859A36bE421B1A22235fe845a9FC3bb3",
             "tags": [
                 "volatilecoin"
             ]
         },
         {
-            "chainId": 245022926,
-            "name": "Wrapped NEON",
-            "symbol": "wNEON",
-            "address": "",
+            "chainId": 534352,
+            "name": "USD Tether",
+            "symbol": "USDT",
+            "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+            "decimals": 6,
+            "logoURI": "",
+            "liquid_staked_address": "",
+            "stable_route": true,
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 534352,
+            "name": "Wrapped Ether",
+            "symbol": "wETH",
+            "address": "0x5300000000000000000000000000000000000004",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wNEON.png",
+            "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -64,7 +88,7 @@
         }
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
