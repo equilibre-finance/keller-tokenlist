@@ -42,7 +42,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/KELL.png",
             "liquid_staked_address": "",
-            "stable_route": true,
+            "price_control": "0x5300000000000000000000000000000000000004",
             "tags": [
                 "volatilecoin"
             ]
@@ -55,7 +55,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/bKELL.png",
             "liquid_staked_address": "",
-            "price_control": "0xE50017fC859A36bE421B1A22235fe845a9FC3bb3",
+            "price_control": "0xCF4706120623c527e32493057A4DC0cae5FC8201",
             "tags": [
                 "volatilecoin"
             ]
@@ -90,6 +90,6 @@
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     }
 }
