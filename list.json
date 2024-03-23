@@ -82,7 +82,6 @@
             "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/keller/wETH.png",
             "liquid_staked_address": "",
             "stable_route": false,
-            "external_feed": true,
             "tags": [
                 "volatilecoin"
             ]
@@ -91,6 +90,6 @@
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     }
 }
